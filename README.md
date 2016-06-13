@@ -3,4 +3,5 @@
 
 
 - [GPSデータ gpx](https://github.com/gsc-aoyama/FieldTrip4GSC2016odawara/blob/master/FieldTrip2016-06-12_odawara.gpx)
+- [kmzデータ kmz](https://github.com/mihokagaya/FieldTrip4GSC2016odawara/blob/master/GPS%20device.kmz)
 ![スクリーンキャプチャ](https://github.com/mihokagaya/FieldTrip4GSC2016odawara/blob/master/hakone.png)
